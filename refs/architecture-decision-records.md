@@ -22,7 +22,7 @@ If someone might later ask "why did we do it this way?", the answer belongs in a
 
 ## ADR Template
 
-Use a lightweight, consistent [structure](~/.cursor/skills/context-engineering/templates/adr.md)
+Use a lightweight, consistent [structure](../templates/adr.md)
 
 Numbers are never reused. If a decision is superseded, the original keeps its number and its status is updated to point to the replacement.
 

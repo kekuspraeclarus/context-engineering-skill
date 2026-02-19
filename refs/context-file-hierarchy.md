@@ -18,7 +18,7 @@ project-root/
   │   ├── knowledge/                 # Deep technical knowledge files
   │   │   ├── ditto-policies.md      # Example: niche library reference
   │   │   └── auth-flow.md           # Example: complex subsystem docs
-  │   └── requirements/
+  │   ├── requirements/
   │   │   └── feature-x.prd.md       # Feature specifications
   │   └── architecture/
   |       └── section-a.md           # Directory/section/package docs
