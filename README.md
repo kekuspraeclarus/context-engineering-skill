@@ -41,7 +41,7 @@ This creates commands like `/adr-creation`, `/session-learning`, etc.
 #### Available commands
 
 - **`/adr-creation`** - Create an Architecture Decision Record after making a significant technical decision. *Requires: decision summary.*
-  > /adr-creation we added <feature> because <reason>. We chose this instead of <alternative> because <reason>
+  > /adr-creation we added {{feature}} because {{reason}}. We chose this instead of {{alternative}} because {{reason}}
 - **`/adr-maintenance`** - Review and update ADRs to ensure they reflect the current codebase.
 - **`/context-maintenance`** - Audit and update all context files after major refactors.
 - **`/directory-investigation`** - Analyze and document an unfamiliar area of the codebase. *Requires: directory path.*
